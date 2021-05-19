@@ -9,8 +9,8 @@ Description: Ce package contient les slides du cours (sous forme de vignettes) a
 Depends: R (>= 3.5.0)
 Imports: learnr, dplyr, ggplot2, RColorBrewer, ggvenn, UpSetR, gggenes, trackViewer
 biocViews: Software
-License: MIT + file LICENSE
-Encoding: UTF-8
 RoxygenNote: 7.1.1
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
+Encoding: UTF-8
+License: MIT + file LICENSE
